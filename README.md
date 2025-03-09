@@ -1,6 +1,6 @@
-# Turma de ADS 2025 uninassau phb
- repositorio oficial da turma de ads bloco1
-+-------+-----+
-|menbros|idade|
-+-------+-----+
-|Kauê Victor|21|
+# Turma de ADS 2025 Uninassau PHB
+Repositório oficial da turma de ADS Bloco 1
+
+| Membro       | Idade |
+|--------------|-------|
+| Kauê Victor  | 21    |
